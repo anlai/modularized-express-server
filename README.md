@@ -16,7 +16,7 @@ node index
 
 # endpoints
 
-http://localhost:3000/helloworld?version=2019-01-01
-http://localhost:3000/helloworld?version=2019-02-01
-http://localhost:3000/goodbyeworld?version=2019-01-01
-http://localhost:3000/goodbyeworld?version=2019-02-01
+- http://localhost:3000/helloworld?version=2019-01-01
+- http://localhost:3000/helloworld?version=2019-02-01
+- http://localhost:3000/goodbyeworld?version=2019-01-01
+- http://localhost:3000/goodbyeworld?version=2019-02-01
